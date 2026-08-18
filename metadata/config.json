@@ -1,0 +1,12 @@
+{
+  "exclude_branches": [
+    "main",
+    "master",
+    "gh-pages"
+  ],
+  "exclude_prefixes": [
+    "_",
+    "dependabot/"
+  ],
+  "descriptor_file": "steamvault.json"
+}
